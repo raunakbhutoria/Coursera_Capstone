@@ -8,6 +8,6 @@ This repository contains a number of files. The files and their functions are as
 4) 'Analyzing the Neighborhoods in Mumbai for Starting a Restaurant.pptx' - A presentation of the final project in MS PowerPoint format.
 5) 'Capstone Project.ipynb' - A code notebook for the assignment of Week 1 of the course.
 6) 'Introduction and Data.pdf' - An introduction and data collection of the final project for the assignment of Week 4 of the course.
-7) 'Neighborhoods in Mumbai to Start a Restaurant.ipynb' - A code notebook for the final project.
+7) 'Neighborhoods in Mumbai to Open a Restaurant.ipynb' - A code notebook for the final project.
 8) 'README.md' - This is the file you are currently reading.
 9) 'Segmenting and Clustering Neighborhoods in Toronto.ipynb' - A code notebook for the assignment of Week 3 of the course.
