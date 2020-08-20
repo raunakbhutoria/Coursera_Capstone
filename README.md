@@ -11,3 +11,6 @@ This repository contains a number of files. The files and their functions are as
 7) 'Neighborhoods in Mumbai to Open a Restaurant.ipynb' - A code notebook for the final project.
 8) 'README.md' - This is the file you are currently reading.
 9) 'Segmenting and Clustering Neighborhoods in Toronto.ipynb' - A code notebook for the assignment of Week 3 of the course.
+
+
+This repository is strictly for the Applied Data Science Capstone course in the IBM Data Science Professional Certificate. To view the projects/assignments of all other courses in the IBM Data Science Professional Certificate, please visit my IBM-Data-Science-Projects repository at https://github.com/raunakbhutoria/IBM-Data-Science-Projects.
